@@ -19,3 +19,12 @@ and gives you the output after completion
 
 # use list option for get all images 
 [! Details 2](./files/details2.png)
+
+
+
+# run script :
+
+```
+sudo sh ./index.sh 
+
+```
