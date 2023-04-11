@@ -15,12 +15,12 @@ and gives you the output after completion
 
 ## read all options
 
-![ Details 1](./details1.png)
+![ Details 1](./files/details1.png)
 
 
 ## use list option for get all images 
 
-![ Details 2](./details2.png)
+![ Details 2](./files/details2.png)
 
 
 
