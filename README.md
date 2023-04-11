@@ -14,10 +14,12 @@ and gives you the output after completion
 
 
 ## read all options
+
 [! Details 1](./details1.png)
 
 
 ## use list option for get all images 
+
 [! Details 2](./details2.png)
 
 
