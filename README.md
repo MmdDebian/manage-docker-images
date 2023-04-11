@@ -17,5 +17,5 @@ and gives you the output after completion
 [! Details 1](./files/details1.png)
 
 
-# use list option to get all images 
+# use list option for get all images 
 [! Details 2](./files/details2.png)
